@@ -1,0 +1,4 @@
+C:\Users\pc1\AppData\Local\Temporary Projects\HomeWork4\bin\Debug\HomeWork4.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\HomeWork4\bin\Debug\HomeWork4.pdb
+C:\Users\pc1\AppData\Local\Temporary Projects\HomeWork4\obj\x86\Debug\HomeWork4.exe
+C:\Users\pc1\AppData\Local\Temporary Projects\HomeWork4\obj\x86\Debug\HomeWork4.pdb
